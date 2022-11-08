@@ -1,0 +1,21 @@
+{
+  "name": "mogo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx parcel index.html --open"
+  },
+  "keywords": [
+    "story",
+    "services",
+    "design",
+    "team"
+  ],
+  "author": "Alina Masterova <alina.glushack@yandex.by>",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0",
+    "parcel": "^2.7.0"
+  }
+}
